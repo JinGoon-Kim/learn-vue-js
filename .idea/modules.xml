@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JavaScriptBasic/JavaScriptBasic.iml" filepath="$PROJECT_DIR$/../JavaScriptBasic/JavaScriptBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learn-vue-js.iml" filepath="$PROJECT_DIR$/.idea/learn-vue-js.iml" />
     </modules>
   </component>
